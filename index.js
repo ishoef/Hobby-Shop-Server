@@ -108,7 +108,7 @@ app.get("/", (req, res) => {
   res.send("Hobby Shop Server is running");
 });
 
-// app.use('/users', userRoutes)
+app.use('/users', userRoutes)
 
 // connection with port
 app.listen(port, () => {
