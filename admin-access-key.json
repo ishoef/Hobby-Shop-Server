@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "hobby-shop-66fd8",
+  "private_key_id": "571855c0f9f933237608cb5709b4322d4b3320ce",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCP99WNKcXuoE2/\n0ZwmHIHpyiSfg00YICPuqj0qdDyi+Ed9S68WtsYRctokHJ9kDsUJMGSgJdHY7N4A\n78blwCV5l92gBVnOu+ZWgVIwHxSqjvJ2xmnIRyiN4kdvLkSyeQEUgZR9QCCOx1yL\nIe1pPPLyjfnQD2DXChyNTzboFgKxaQs+M1T5APjTopwLxbgOQHVZmaqZZ8PekeaG\nCf/bQrgDMM6nSj+osXEyxk1Yh6RXEKHYSf6yiG8QximNbWE4CViDDRn5m2E9Qhab\nuZUewQS5BOGg8jY2wgWPTVWmLzcx14KQ15DkI9eVmCSQvNJipWeXry4yauuBuIkX\ne1/Ax0eNAgMBAAECggEABy00ncISk2aLIaVTr5mrBzS0ASiaLU+dgu5FDh/3uCxW\nDKKlx8/UzUtd9kAKrldHJAIKeL+R4kqidsZSck2oVeidBrb65wGPsJ8R3K4RSWmb\n9WbxddHy7VRgOQ8Dzn1rhp0UAhoHgB6OLYMDiEQJHKVjqdG5GIHGR8FbtxOGeaye\nm5KHyzUyclDXmEVVi8ThMWnk6mUUmyYdu9znz1NnV0i5Q+zxYFC/dA0Pbfx6pUjN\nCkQ/+xAVorfpr5QCYP6yOpRkHAQmU1J4AcjJoq4OIt/Xe2+pIZeMCPi54cHEUrMj\nAoRC51pXDpu6L4gehgkaSFKkrtptlFJDOHYqUqfhEQKBgQDCWPwp9adKSFYlxd9l\nfgaiCUUQDCeuLAo7TVbLz7xXyjDWorquS60dx1N03fXR9WIeNNNGUYKe0KEMxYnK\nl0aNpK1HXiuzDTn9vDGmPU4gtOKM4lIk6en3QBMFJ/ivkR3r0ID76mgnadWvDe48\nRQamdrI0W1N+yiuUIwSzGIGJ3QKBgQC9o4StibOaOK7lu7OzzuoMztuOKug6gl2z\n1G6pqrgGORYTbr5kJfBQ7YwG+d/xu0kaLa76NEKc5MPrUOAfz+9h0r9yqTUhep13\nn/af9CfawWQ81fCLwliNUZc/2V5Ftypi/Pf5LygP/BtPkf+NJpoqOUrkjWP2fvJp\ndEROE3zRcQKBgFOqJRwXIaZrz5JBRbOWdlqJLQ8EfIyRbvIqkCP7UPRmGXI86aqg\n72yzY20bJHj3bv7b9Nv/uQCPhdVOsMvjJb9SVjo0AxH4rq9ZtfH/0ENqO2E1CPHV\nNSB4l/ePRpKmIUBkKTLJrX7SI+hRUe7mND+zN3IsopwhgnMqRBqpgRKNAoGBALMF\npr7ce7xfPlyJsb9Q2gp1TTcMsmZpo2Oca0uoakkVow19Qibw2cjMN6BuS0a8cupP\nrhttMmVCYOHIW4wsk+NZPHpV2l5cjkLbs8qUhvswDhyQKqEFOutN1ubjoOdXXqBM\nBxwptDxC1tVrEkCB7I9nvpe8El4kwVtj8wdxxidBAoGBAKweXtodXJ4Zs18y/dQk\n5aoEEJzgLLqztBdzUh+abfTd9y6v+GzzjZaB7hMI3ju8vAtpXVbvbCjvu8Z+bpT0\nRm9VleJ6x5FRHPulDG9GzFt4/+xllHCqGD44raS7236d9uYdpMQvSdRfuFn9O/L+\ngKXjI/s+Tg4Q2ejdnT+Iew5Z\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@hobby-shop-66fd8.iam.gserviceaccount.com",
+  "client_id": "113677034327278652581",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40hobby-shop-66fd8.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
